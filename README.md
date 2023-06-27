@@ -5,3 +5,13 @@ Ever wonder how night vision goggles work? Did you know, if you've ever used nig
 
 ![IMG_3959](https://github.com/ComputerFish/MX-9916/assets/52689119/c09021a1-1eae-473b-a1fe-828c66e236cb)
 ![IMG_4105](https://github.com/ComputerFish/MX-9916/assets/52689119/55a7380e-29a0-476e-aaf2-9aeb8ac63c48)
+###### *AN/PVS-5B(Army/Navy Portable Visual Search)*
+
+# So how does night vision work?
+
+There are three primary forms of night vision:
+1. Image intensification
+2. Active illumination
+3. thermal imaging
+
+The most common type available to consumers is active illumination, this also commonly refered to as digital night vision.
