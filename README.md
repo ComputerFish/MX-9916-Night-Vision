@@ -34,11 +34,11 @@ Once the electrons have passed through the MCP, they strike a phosphor screen at
 By utilizing this process of converting photons into electricity and then back into light, night vision devices allow users to see in conditions where natural light is limited or absent.
 
 
-# Surely, does this use a lot of power?
+# Surely, this uses a lot of power?
 
 Well, surprisingly, even night vision units from the 1970s could operate on 3 volts! That's only two AA batteries (although they used non-standard-shaped batteries).
 
-This power configuration (one of many) could last a few days of intermittent use. The MX-9916/MX-9648 image intensifier tube is considered GEN 2 technology. This means it is quite old now, and modern GEN 4 technology surpasses it in many ways. However, it does not mean it is useless!
+This power configuration (one of many) could last a few days of intermittent use. The MX-9916/MX-9648 image intensifier tube is considered GEN 2 technology. This means it is quite old now, and modern GEN 4 technology surpasses it in many ways this does not mean it is useless!
 
 However, due to its age, many units have dead power supplies, and finding replacements for the MX-9916 is not possible. So, I decided to disassemble mine and examine the inner workings.
 
@@ -46,9 +46,12 @@ However, due to its age, many units have dead power supplies, and finding replac
 ![](https://i.imgur.com/jNUwAyu.jpg)
 This particular image intensifier tube is made by a company caleld Galileo Electro-Optics, Inc. This *type* of tube was primarily used in night vision goggles as explained above but those were all produced by ITT Industries and Littion Industries for the PVS-5 (and others). The tube I have was made to the MX-9916 spec but instead by Galileo for NASA during the space shuttle program in the 1970s.
 
-NASA's Final Report|  Nikon F 35mm with tube fitted
+NASA's Final Report|  Nikon F 35mm with Galileo tube fitted
 :-------------------------:|:-------------------------:
 ![](https://github.com/ComputerFish/MX-9916/assets/52689119/756742d9-5366-44de-941a-e6ef86771331)  |  ![](https://github.com/ComputerFish/MX-9916/assets/52689119/57497614-a740-4d1f-9569-87f1c2b8b699)
+
+My tube came with a broken power supply that when powered from a 3 volt source just had a tiny amount of arcing visable. so I had to take on the task of de-potting, this device internally uses a few thousand volts to power the different components and when voltage is that high the electricity has a tendency to want to jump the gap and find the nearest path to ground(which could be me if I am holding it, don't ask me how I know it hurts). Due to the nature of such high voltage the whole tube is encased in a thick dielectric silicone and coveres anything from being visable, I had to pick this all off very carefully with a pair of tweezers if I wanted to inspec the voltage multiplier. 
+So how does 3 volts get turned into 15,000 volts? it all happens inside the PSU specifically the section that contains the capacitor array 
 
 
 
