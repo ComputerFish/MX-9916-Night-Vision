@@ -54,5 +54,7 @@ My tube came with a broken power supply that when powered from a 3 volt source j
 
 Note: Such high voltage is dangerous but at only 0.035 milliamperes this not deadly, it still hurts and high voltge arcs emit X-Rays so caution was needed.
 
-So how does 3 volts get turned into 15,000 volts? it all happens inside the PSU specifically the section that contains the capacitor array, this portion is so high voltage the silicone won't cut it so its encased in resin to prevent arcing and this all has to melted/picked away to show any components. 
-
+So how does 3 volts get turned into 15,000 volts? it all happens inside the PSU specifically the section that contains the capacitor array, this portion is so high voltage the silicone won't cut it so its encased in resin to prevent arcing and this all had to be melted/picked away to show any components. Each capacitor output feeds into the input of the next one until successively we reach about 15,000 volts!
+DC-To-AC Transformers (white ceramic squares)|  Capacitor Arrays In Series(black bars)
+:-------------------------:|:-------------------------:
+![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/dddd5784-b9ad-4527-9234-9cd9eec1914c)  |  ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/35ae8f9f-cc5d-4f7e-9cba-ed5873fbb447)
