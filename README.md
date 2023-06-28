@@ -60,3 +60,9 @@ DC-To-AC Transformers (white ceramic squares)|  Capacitor Arrays In Series(black
 ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/dddd5784-b9ad-4527-9234-9cd9eec1914c)  |  ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/35ae8f9f-cc5d-4f7e-9cba-ed5873fbb447)
 
 Taking apart a device like this is very dangerous if the proper precautions are not taken since many of the components are carcinogenic and toxic(leaded soldier, toxic potting compounds, toxic photo-luminous phosphorus, etc.). This is about as far as we should go in disassembly of a device like this due to the image tube being vaccum sealed and inside it contains very toxic powders and delicate pieces such as the Micro Channel Plate and phosphorus screen, the ocular lends does contain a very interesting fiber optic lens!
+
+Image Intensifier in PVS-5B Housing|  Power Supply Disassembled
+:-------------------------:|:-------------------------:
+![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/fedc2d23-96e7-461a-a54b-4dcdb53b68fe)  |  ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/46ba9d97-69f3-4d12-a121-e84284a7511b)
+
+This has been a very brief introduction into the MX-9916 and a disassembly of my personal unit. There has been a ton that is not discussed and *many* technical details omitted for the sake of this not being as long as a book. More information including schematics and technical diagrams from NASA can be found in this repository.
