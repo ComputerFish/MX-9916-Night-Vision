@@ -44,4 +44,4 @@ However, due to its age, many units have dead power supplies, and finding replac
 
 # What is the MX-9916 made by Galileo Electro-Optics, Inc.?
 ![](https://i.imgur.com/jNUwAyu.jpg)
-This particular image intensifier tube is made by a company caleld Galileo Electro-Optics, Inc. This *type* of tube was primarily used in night vision goggles as explained above but those were all produced by ITT Industries and Littion Industries for the PVS-5 (and others). The tube I have was made to the MX-9916 spec but by Galileo
+This particular image intensifier tube is made by a company caleld Galileo Electro-Optics, Inc. This *type* of tube was primarily used in night vision goggles as explained above but those were all produced by ITT Industries and Littion Industries for the PVS-5 (and others). The tube I have was made to the MX-9916 spec but instead by Galileo and appers to have been used during testing for the space shuttle prorgam
