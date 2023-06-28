@@ -8,14 +8,20 @@ Have you ever wondered how night vision goggles work? Did you know that if you'v
 ![IMG_4105](https://github.com/ComputerFish/MX-9916/assets/52689119/a1bc5a5e-af69-4193-9b55-6be7498fab28)
 ###### *AN/PVS-5B (Army/Navy Portable Visual Search - 5B)*
 
-So, how does night vision work?
+# So, how does night vision work?
 
 There are three primary forms of night vision:
-
-Image intensification
-Active illumination
-Thermal imaging
+1. Image intensification
+2. Active illumination
+3. Thermal imaging
+  
 The most common type available to consumers is active illumination, which is commonly referred to as digital night vision. Digital night vision uses a digital camera with no infrared light filter across the sensor. This means that an area can be illuminated with infrared LEDs, and only the camera will be able to see this. This approach is how most security cameras and even Apple's Face ID works (sort of)!
+
+The second most common type of night vision is image intensification (most common in military and scientific applications). This is sometimes referred to as "true" night vision and is characterized by the classic green-eyed devices seen in movies. This type is considerably more complex but offers advantages such as extended view distance, power savings, and enhanced reliability. Image intensification devices are extensively used in military applications and scientific instruments that require imaging capabilities in low-light conditions. For the purpose of this discussion, we will focus solely on this type.
+
+There is also thermal imaging, which operates based on the detection of infrared radiation emitted by objects and living beings. Unlike image intensification or active illumination, thermal imaging does not rely on visible light. Instead, it captures the heat signatures emitted by objects and converts them into a visible image.
+
+//image here
 
 Night vision devices based on image intensification technology, like the MX-9916/MX-9648 tube, work by amplifying available light to enhance visibility in low-light conditions. The tube consists of several key components, including a photocathode, microchannel plate (MCP), and phosphor screen.
 
