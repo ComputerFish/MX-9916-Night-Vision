@@ -44,25 +44,34 @@ However, due to its age, many units have dead power supplies, and finding replac
 
 # What is the MX-9916 made by Galileo Electro-Optics, Inc.?
 ![](https://i.imgur.com/jNUwAyu.jpg)
-This particular image intensifier tube is made by a company caleld Galileo Electro-Optics, Inc. This *type* of tube was primarily used in night vision goggles as explained above but those were all produced by ITT Industries and Littion Industries for the PVS-5 (and others). The tube I have was made to the MX-9916 spec but instead by Galileo for NASA during the space shuttle program in the 1970s.
+This particular image intensifier tube, known as the MX-9916, was manufactured by Galileo Electro-Optics, Inc. This specific type of tube was primarily used in night vision goggles, as explained above, but those were predominantly produced by ITT Industries and Litton Industries for the PVS-5 and other models. However, the tube I have is a special version made to the MX-9916 specifications by Galileo for NASA during the space shuttle program in the 1970s.
+
 
 NASA's Final Report|  Nikon F 35mm with Galileo tube fitted
 :-------------------------:|:-------------------------:
 ![](https://github.com/ComputerFish/MX-9916/assets/52689119/756742d9-5366-44de-941a-e6ef86771331)  |  ![](https://github.com/ComputerFish/MX-9916/assets/52689119/57497614-a740-4d1f-9569-87f1c2b8b699)
 
-My tube came with a broken power supply that when powered from a 3 volt source just had a tiny amount of arcing visable. so I had to take on the task of de-potting, this device internally uses a few thousand volts to power the different components and when voltage is that high the electricity has a tendency to want to jump the gap and find the nearest path to ground(which could be me if I am holding it, don't ask me how I know it hurts). Due to the nature of such high voltage the whole tube is encased in a thick dielectric silicone known as potting and coveres anything from being visable, I had to pick this all off very carefully with a pair of tweezers if I wanted to inspec the voltage multiplier.
+My tube came with a broken power supply. When powered from a 3-volt source, there was a small amount of visible arcing. Therefore, I had to undertake the task of de-potting the device. Internally, this device utilizes a few thousand volts to power its different components. When the voltage is that high, electricity tends to seek the path of least resistance, potentially leading to a ground connection (which, if I am holding it, can be quite painful—I'd rather not explain how I know).
 
-Note: Such high voltage is dangerous but at only 0.035 milliamperes this not deadly, it still hurts and high voltge arcs emit X-Rays so caution was needed.
+Due to the high voltage involved, the entire tube is encased in a thick layer of dielectric silicone known as potting. This potting material covers everything, making it impossible to see the internal components. To inspect the voltage multiplier, I had to very carefully remove the potting material using a pair of tweezers.
 
-So how does 3 volts get turned into 15,000 volts? it all happens inside the PSU specifically the section that contains the capacitor array, this portion is so high voltage the silicone won't cut it so its encased in resin to prevent arcing and this all had to be melted/picked away to show any components. Each capacitor output feeds into the input of the next one until successively we reach about 15,000 volts!
+Note: While such high voltage can be dangerous, at only 0.035 milliamperes, it is not deadly. However, it can still cause discomfort, and it's important to be cautious. Additionally, high-voltage arcs emit X-rays, further emphasizing the need for caution in handling the device.
+
+So, how does 3 volts get transformed into 15,000 volts? This transformation occurs inside the power supply unit (PSU), specifically within the section that houses the capacitor array. This part operates at such a high voltage that silicone insulation alone won't cut it. Therefore, it is encased in resin to prevent arcing. To reveal the underlying components, the resin had to be melted and carefully removed.
+
+In the capacitor array, each capacitor's output is connected to the input of the next one, resulting in a cascading effect. Through this cascading arrangement, the voltage gradually increases until it reaches approximately 15,000 volts!
 DC-To-AC Transformers (white ceramic squares)|  Capacitor Arrays In Series(black bars)
 :-------------------------:|:-------------------------:
 ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/dddd5784-b9ad-4527-9234-9cd9eec1914c)  |  ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/35ae8f9f-cc5d-4f7e-9cba-ed5873fbb447)
 
-Taking apart a device like this is very dangerous if the proper precautions are not taken since many of the components are carcinogenic and toxic(leaded soldier, toxic potting compounds, toxic photo-luminous phosphorus, etc.). This is about as far as we should go in disassembly of a device like this due to the image tube being vaccum sealed and inside it contains very toxic powders and delicate pieces such as the Micro Channel Plate and phosphorus screen, the ocular lends does contain a very interesting fiber optic lens!
+Taking apart a device like this can be extremely hazardous if proper precautions are not taken into account. Many of the components present in the device, such as leaded solder, toxic potting compounds, and toxic photo-luminous phosphorus, are known to be carcinogenic and toxic. Therefore, it is crucial to exercise caution.
+
+It is important to note that disassembling the device beyond this point is not recommended so that is where I will stop. The image tube is vacuum-sealed and contains highly toxic powders and delicate components like the Micro Channel Plate and phosphorus screen. However, it is worth mentioning that the ocular lens does feature an intriguing fiber optic lens!
 
 Image Intensifier in PVS-5B Housing|  Power Supply Disassembled
 :-------------------------:|:-------------------------:
 ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/fedc2d23-96e7-461a-a54b-4dcdb53b68fe)  |  ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/46ba9d97-69f3-4d12-a121-e84284a7511b)
 
-This has been a very brief introduction into the MX-9916 and a disassembly of my personal unit. There has been a ton that is not discussed and *many* technical details omitted for the sake of this not being as long as a book. More information including schematics and technical diagrams from NASA can be found in this repository.
+This has been a concise introduction to the MX-9916 and a disassembly of my personal unit. It is important to note that there is a vast amount of information and numerous technical details that have not been covered in this brief overview. These omissions were made to keep the discussion from becoming excessively lengthy, akin to a book.
+
+For those interested in delving deeper, including access to schematics and technical diagrams from NASA, I recommend referring to the repository linked below for more comprehensive information.
