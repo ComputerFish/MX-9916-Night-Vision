@@ -4,8 +4,8 @@ Teardown and Documentation on MX-9916/MX-9648 image intensifier tube used in PVS
 
 Have you ever wondered how night vision goggles work? Did you know that if you've ever used night vision devices, you were probably exposing your eyes to 15,000 volts? In this walkthrough of the MX-9916/MX-9648 image intensifier tube made by Galileo Electro-Optics, Inc., I will show you the uses of this type of image intensifier tube and how it converts photons into electricity and then back into light.
 
-![IMG_3959](https://github.com/ComputerFish/MX-9916/assets/52689119/c2b6c8c6-1255-47ab-9fef-63892523c5e0)
-![IMG_4105](https://github.com/ComputerFish/MX-9916/assets/52689119/a1bc5a5e-af69-4193-9b55-6be7498fab28)
+![](https://github.com/ComputerFish/MX-9916/assets/52689119/c2b6c8c6-1255-47ab-9fef-63892523c5e0)
+![](https://github.com/ComputerFish/MX-9916/assets/52689119/a1bc5a5e-af69-4193-9b55-6be7498fab28)
 ###### *AN/PVS-5B (Army/Navy Portable Visual Search - 5B)*
 
 # So, how does night vision work?
@@ -33,7 +33,11 @@ Once the electrons have passed through the MCP, they strike a phosphor screen at
 
 By utilizing this process of converting photons into electricity and then back into light, night vision devices allow users to see in conditions where natural light is limited or absent.
 
-IMG_7312
-Image: Components of an MX-9916/MX-9648 Image Intensifier Tube
 
-Understanding the inner workings of image intensifier tubes, such as the MX-9916/MX-9648, not only provides insights into their functionality but also highlights the technological advancements that enable us to perceive the world in low-light environments.
+# Surely this uses a lot of power right?
+Well surpisingly even night vision units from the 1970s could work off 3 volts! That's only two AA batteries (though they used non standard shaped batteries)
+
+This power configuratuon(one of many), could last a few days of intermitten use. The MX-9916/MX-9648 image intensifier tube is considred GEN 3 technology, this means it is quite a bit old now and modern GEN 4 surpases it in many ways but does not mean it is useless!
+
+However this does mean due to the age many units have dead power supplies and finding replacements for the MX-9916 is not possible, so I decided to take mine apart and examine the inner workings.
+![](https://i.imgur.com/jNUwAyu.jpg)
