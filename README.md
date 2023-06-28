@@ -38,9 +38,10 @@ By utilizing this process of converting photons into electricity and then back i
 
 Well, surprisingly, even night vision units from the 1970s could operate on 3 volts! That's only two AA batteries (although they used non-standard-shaped batteries).
 
-This power configuration (one of many) could last a few days of intermittent use. The MX-9916/MX-9648 image intensifier tube is considered GEN 3 technology. This means it is quite old now, and modern GEN 4 technology surpasses it in many ways. However, it does not mean it is useless!
+This power configuration (one of many) could last a few days of intermittent use. The MX-9916/MX-9648 image intensifier tube is considered GEN 2 technology. This means it is quite old now, and modern GEN 4 technology surpasses it in many ways. However, it does not mean it is useless!
 
 However, due to its age, many units have dead power supplies, and finding replacements for the MX-9916 is not possible. So, I decided to disassemble mine and examine the inner workings.
 
 # What is the MX-9916 made by Galileo Electro-Optics, Inc.?
 ![](https://i.imgur.com/jNUwAyu.jpg)
+This particular image intensifier tube is made by a company caleld Galileo Electro-Optics, Inc. This *type* of tube was primarily used in night vision goggles as explained above but those were all produced by ITT Industries and Littion Industries for the PVS-5 (and others). The tube I have was made to the MX-9916 spec but by Galileo
