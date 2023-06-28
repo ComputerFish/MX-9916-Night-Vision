@@ -21,7 +21,9 @@ The second most common type of night vision is image intensification (most commo
 
 There is also thermal imaging, which operates based on the detection of infrared radiation emitted by objects and living beings. Unlike image intensification or active illumination, thermal imaging does not rely on visible light. Instead, it captures the heat signatures emitted by objects and converts them into a visible image.
 
-//image here
+![PVS5Csectionb](https://github.com/ComputerFish/MX-9916/assets/52689119/1664f68c-7bd2-4bcb-87c8-a1f0a7860ce1)
+![How-does-Night-Vision-Work-](https://github.com/ComputerFish/MX-9916/assets/52689119/d2b7d9bb-88fa-4f91-a0da-a19299386c5c)
+
 
 Night vision devices based on image intensification technology, like the MX-9916/MX-9648 tube, work by amplifying available light to enhance visibility in low-light conditions. The tube consists of several key components, including a photocathode, microchannel plate (MCP), and phosphor screen.
 
