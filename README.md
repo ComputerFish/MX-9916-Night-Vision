@@ -34,10 +34,13 @@ Once the electrons have passed through the MCP, they strike a phosphor screen at
 By utilizing this process of converting photons into electricity and then back into light, night vision devices allow users to see in conditions where natural light is limited or absent.
 
 
-# Surely this uses a lot of power right?
-Well surpisingly even night vision units from the 1970s could work off 3 volts! That's only two AA batteries (though they used non standard shaped batteries)
+# Surely, does this use a lot of power?
 
-This power configuratuon(one of many), could last a few days of intermitten use. The MX-9916/MX-9648 image intensifier tube is considred GEN 3 technology, this means it is quite a bit old now and modern GEN 4 surpases it in many ways but does not mean it is useless!
+Well, surprisingly, even night vision units from the 1970s could operate on 3 volts! That's only two AA batteries (although they used non-standard-shaped batteries).
 
-However this does mean due to the age many units have dead power supplies and finding replacements for the MX-9916 is not possible, so I decided to take mine apart and examine the inner workings.
+This power configuration (one of many) could last a few days of intermittent use. The MX-9916/MX-9648 image intensifier tube is considered GEN 3 technology. This means it is quite old now, and modern GEN 4 technology surpasses it in many ways. However, it does not mean it is useless!
+
+However, due to its age, many units have dead power supplies, and finding replacements for the MX-9916 is not possible. So, I decided to disassemble mine and examine the inner workings.
+
+# What is the MX-9916 made by Galileo Electro-Optics, Inc.?
 ![](https://i.imgur.com/jNUwAyu.jpg)
