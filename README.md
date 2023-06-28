@@ -52,5 +52,7 @@ NASA's Final Report|  Nikon F 35mm with Galileo tube fitted
 
 My tube came with a broken power supply that when powered from a 3 volt source just had a tiny amount of arcing visable. so I had to take on the task of de-potting, this device internally uses a few thousand volts to power the different components and when voltage is that high the electricity has a tendency to want to jump the gap and find the nearest path to ground(which could be me if I am holding it, don't ask me how I know it hurts). Due to the nature of such high voltage the whole tube is encased in a thick dielectric silicone known as potting and coveres anything from being visable, I had to pick this all off very carefully with a pair of tweezers if I wanted to inspec the voltage multiplier.
 
+Note: Such high voltage is dangerous but at only 0.035 milliamperes this not deadly, it still hurts and high voltge arcs emit X-Rays so caution was needed.
+
 So how does 3 volts get turned into 15,000 volts? it all happens inside the PSU specifically the section that contains the capacitor array, this portion is so high voltage the silicone won't cut it so its encased in resin to prevent arcing and this all has to melted/picked away to show any components. 
 
