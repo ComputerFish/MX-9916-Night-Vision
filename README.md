@@ -64,7 +64,7 @@ DC-To-AC Transformers (white ceramic squares)|  Capacitor Arrays In Series(black
 :-------------------------:|:-------------------------:
 ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/dddd5784-b9ad-4527-9234-9cd9eec1914c)  |  ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/35ae8f9f-cc5d-4f7e-9cba-ed5873fbb447)
 
-Taking apart a device like this can be extremely hazardous if proper precautions are not taken into account. Many of the components present in the device, such as leaded solder, toxic potting compounds, and toxic photo-luminous phosphorus, are known to be carcinogenic and toxic. Therefore, it is crucial to exercise caution.
+Taking apart a device like this can be extremely hazardous if proper precautions are not taken into account. Many of the components present in the device, such as leaded solder, toxic potting compounds, and toxic photo-luminous phosphorus, are known to be carcinogenic and toxic.
 
 It is important to note that disassembling the device beyond this point is not recommended so that is where I will stop. The image tube is vacuum-sealed and contains highly toxic powders and delicate components like the Micro Channel Plate and phosphorus screen. However, it is worth mentioning that the ocular lens does feature an intriguing fiber optic lens!
 
@@ -72,6 +72,6 @@ Image Intensifier in PVS-5B Housing|  Power Supply Disassembled
 :-------------------------:|:-------------------------:
 ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/fedc2d23-96e7-461a-a54b-4dcdb53b68fe)  |  ![](https://github.com/ComputerFish/MX-9916-Night-Vision/assets/52689119/46ba9d97-69f3-4d12-a121-e84284a7511b)
 
-This has been a concise introduction to the MX-9916 and a disassembly of my personal unit. It is important to note that there is a vast amount of information and numerous technical details that have not been covered in this brief overview. These omissions were made to keep the discussion from becoming excessively lengthy, akin to a book.
+This has been a concise introduction to the MX-9916 and a disassembly of my personal unit. It is important to note that there is a vast amount of information and numerous technical details that have not been covered in this brief overview. These omissions were made to keep the discussion from becoming excessively lengthy.
 
-For those interested in delving deeper, including access to schematics and technical diagrams from NASA, I recommend referring to the repository linked below for more comprehensive information.
+For those interested in delving deeper, including access to schematics and technical diagrams from NASA, I recommend reviewing the other files in this repository.
